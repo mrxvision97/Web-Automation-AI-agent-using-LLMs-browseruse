@@ -1,0 +1,13 @@
+
+# For Gemini integration and environment variable management (gemini.py)
+langchain-google-genai
+python-dotenv
+
+# For Ollama integration (travel.py)
+langchain-ollama
+
+# For data validation and settings (used in both scripts)
+pydantic
+
+# For browser automation (used in both scripts)
+browser-use
